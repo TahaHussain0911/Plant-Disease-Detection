@@ -1,0 +1,7 @@
+numpy
+pandas
+Flask == 2.3.3
+pillow
+gunicorn == 20.0.4
+opencv-python
+pip3 install torch torchvision torchaudio
