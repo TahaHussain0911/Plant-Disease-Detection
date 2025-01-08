@@ -68,7 +68,3 @@ All the version with code can be seen in `jovian.ml` (https://jovian.ml/soumyaji
 - `TestImages` : Sample image for model testing
 - `Src` : All The source code for building models
 - `Models` : All the Pretrained Models of Pytorch
-
-## License
-
-This project is Licensed under `MIT`
