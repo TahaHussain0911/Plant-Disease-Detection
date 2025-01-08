@@ -51,4 +51,6 @@ TestImages
 venv
 Assets
 train-data.pth
-Src
+Src/train-data.pth
+Src/Plant Disease Identification.ipynb
+Src/Machine.ipynb
